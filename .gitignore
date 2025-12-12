@@ -1,2 +1,4 @@
 .idea
-.gradlebuild/
+.gradled
+/build
+build/
